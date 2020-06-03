@@ -10,7 +10,7 @@ simple discord bot capable to send random text on chat, and play sound files.
 * Add a new application on your discord account, get token and put it in to token.txt file
 * Launch bot.py
 
-#Usage
+## Usage
 * -cytat - choses random line from teksty.txt file and prints in on dicord chat (rempember to add your own lines to the file)
 * -name_of_file_from_/soundboard plays audio file with that name, you can add your own audio files but you need to create new @client_command
 
